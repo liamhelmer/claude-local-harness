@@ -34,3 +34,6 @@ Thumbs.db
 .env.local
 *.key
 *.pem
+
+# Agent fork-join session files (auto-added)
+.fork-join/
