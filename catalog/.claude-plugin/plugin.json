@@ -1,0 +1,17 @@
+{
+  "name": "catalog",
+  "description": "Searchable catalog of Claude Code plugins, skills, agents, and frameworks with MCP server interface",
+  "version": "0.1.0",
+  "author": {
+    "name": "Liam Helmer",
+    "email": "liam.helmer@telusinternational.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "catalog",
+    "plugins",
+    "skills",
+    "discovery",
+    "mcp"
+  ]
+}

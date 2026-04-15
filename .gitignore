@@ -1,0 +1,36 @@
+# Cloned source repositories (managed by install.sh, not tracked)
+/repositories/
+
+# Fork-join cache
+/.fork-join/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem

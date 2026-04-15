@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "catalog": {
+      "command": "python3",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/src/mcp_server.py"
+      ],
+      "env": {
+        "CATALOG_DB": "${CLAUDE_PLUGIN_ROOT}/data/catalog.db",
+        "CATALOG_REPOS_DIR": ""
+      }
+    }
+  }
+}

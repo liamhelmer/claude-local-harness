@@ -1,0 +1,20 @@
+{
+  "name": "catalog-marketplace",
+  "description": "Plugin catalog — searchable database of Claude Code plugins, skills, agents, and frameworks",
+  "owner": {
+    "name": "Liam Helmer",
+    "email": "liam.helmer@telusinternational.com"
+  },
+  "plugins": [
+    {
+      "name": "catalog",
+      "description": "Searchable catalog of Claude Code plugins, skills, agents, and frameworks with MCP server interface. Ingests local repos, enriches with GitHub metadata, detects duplicates, flags suspicious code, and produces curated toolkit sets for 7 project types and 8 personas.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Liam Helmer",
+        "email": "liam.helmer@telusinternational.com"
+      }
+    }
+  ]
+}
